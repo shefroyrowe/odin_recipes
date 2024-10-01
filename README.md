@@ -1,1 +1,2 @@
-# odin_recipes
+# odin_recipe
+Demonstrate html knowledge and skils
