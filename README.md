@@ -1,2 +1,2 @@
 # odin_recipe
-Demonstrate html knowledge and skils
+Demonstrate html knowledge and skills
